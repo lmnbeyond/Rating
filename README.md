@@ -1,5 +1,4 @@
 Rating
 ======
 
-[![Build Status](https://travis-ci.org/xianlinbox/iOSCIDemo.png)](https://travis-ci.
-org/xianlinbox/iOSCIDemo)
+[![Build Status](https://api.travis-ci.org/lmnbeyond/Rating.png)](https://api.travis-ci.org/lmnbeyond/Rating)
